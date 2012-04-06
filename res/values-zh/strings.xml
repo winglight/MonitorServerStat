@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">谁知道你的服务器</string>
+    <string name="save">保存</string>
+    <string name="intervalMinutes">间隔分钟:</string>
+    <string name="serverUrl">服务器 URL:</string>
+    <string name="hitory">历史</string>
+    <string name="isMonitor">是否监控</string>
+    <string name="update">更新</string>
+    <string name="delete">删除</string>
+    <string name="backMain">退回</string>
+    <string name="verifyTitle">校验标题</string>
+    <string name="checkList">检查列表</string>
+    <string name="userId">用户名</string>
+    <string name="password">口令</string>
+    <string name="addServer">添加服务器</string>
+    <string name="aboutTitle">帮助</string>
+    <string name="serverTitle">服务器</string>
+    <string name="saveSuccess">成功保存了你的服务器配置!</string>
+    <string name="saveFail">保存你的服务器配置失败!</string>
+    <string name="deleteSuccess">成功删除了你的服务器配置!</string>
+    <string name="deleteFail">删除你的服务器配置失败!</string>
+    <string name="stopAll">停止所有监控!</string>
+    <string name="startAll">启动或停止所有监控服务!</string>
+    <string name="writeLog">写入日志 ...</string>
+    <string name="finishMonitor">完成监控 ...</string>
+    <string name="gettingResult">获取连接返回结果 ...</string>
+    <string name="worksFine">服务器工作正常 ...</string>
+    <string name="startingMonitor">开始监控 ...</string>
+    <string name="status">监控状态:</string>
+    <string name="monitorStop">监控已暂停 ...</string>
+    <string name="clearSuccess">已成功清除日志!</string>
+    <string name="clearFail">清除日志失败!</string>
+    <string name="clearLogs">清除日志</string>
+</resources>

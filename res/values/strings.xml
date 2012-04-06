@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Who knows your server UP or DOWN</string>
+    <string name="save">Save</string>
+    <string name="intervalMinutes">Interval Minutes:</string>
+    <string name="serverUrl">Server URL:</string>
+    <string name="hitory">History</string>
+    <string name="isMonitor">Is Monitor</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="backMain">Back</string>
+    <string name="verifyTitle">Verify Title</string>
+    <string name="checkList">Check List</string>
+    <string name="userId">User ID</string>
+    <string name="password">Password</string>
+    <string name="addServer">Add Server</string>
+    <string name="aboutTitle">Help</string>
+    <string name="serverTitle">Server</string>
+    <string name="saveSuccess">Success to save your server configuration!</string>
+    <string name="saveFail">Failed to save your server configuration!</string>
+    <string name="clearSuccess">Success to clear your logs!</string>
+    <string name="clearFail">Failed to clear your logs!</string>
+    <string name="clearLogs">Clear Logs</string>
+    <string name="deleteSuccess">Success to delete your server configuration!</string>
+    <string name="deleteFail">Failed to delete your server configuration!</string>
+    <string name="stopAll">Stop All Monitor!</string>
+    <string name="startAll">Start or Stop All Monitor Service!</string>
+    <string name="writeLog">Writing log ...</string>
+    <string name="finishMonitor">finishing monitor ...</string>
+    <string name="gettingResult">Getting result of the connection ...</string>
+    <string name="worksFine">Server works fine ...</string>
+    <string name="startingMonitor">Starting monitor ...</string>
+    <string name="status">Monitor status:</string>
+    <string name="monitorStop">Monitor is stopped ...</string>
+    <string name="monitorStart">Monitor is started ...</string>
+</resources>
